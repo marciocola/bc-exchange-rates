@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rates date="2026-02-07">
+    <rate currency="USD" value="1.0990"/>
+    <rate currency="GBP" value="0.8500"/>
+    <rate currency="CHF" value="0.9400"/>
+    <rate currency="JPY" value="160.5500"/>
+    <rate currency="RON" value="4.9700"/>
+    <rate currency="ALL" value="101.2000"/>
+
+    <rate currency="SEK" value="11.1000"/>
+    <rate currency="NOK" value="11.4000"/>
+    <rate currency="PLN" value="4.2500"/>
+    <rate currency="HUF" value="385.0000"/>
+    <rate currency="CZK" value="24.5000"/>
+    <rate currency="DKK" value="7.4500"/>
+
+    <rate currency="CAD" value="1.4500"/>
+    <rate currency="AUD" value="1.6400"/>
+    <rate currency="NZD" value="1.7600"/>
+
+    <rate currency="CNY" value="7.8000"/>
+    <rate currency="MXN" value="19.2000"/>
+    <rate currency="TRY" value="34.0000"/>
+    <rate currency="ZAR" value="20.1000"/>
+
+    <rate currency="SGD" value="1.4600"/>
+    <rate currency="HKD" value="8.6000"/>
+    <rate currency="ISK" value="147.0000"/>
+    <rate currency="BGN" value="1.9500"/>
+    <rate currency="ILS" value="4.0000"/>
+</rates>
