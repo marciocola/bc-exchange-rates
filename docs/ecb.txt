@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rates date="07/02/2026">
-    <rate currency="USD" value="1.0990"/>
-    <rate currency="GBP" value="0.8500"/>
-    <rate currency="CHF" value="0.9400"/>
-    <rate currency="JPY" value="160.5500"/>
-    <rate currency="RON" value="4.9700"/>
-    <rate currency="ALL" value="101.2000"/>
+<rates date="07-02-2026">
+    <rate currency="RON" value="4,9700"/>
+    <rate currency="ALL" value="101,2000"/>
 </rates>
